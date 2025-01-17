@@ -1,4 +1,4 @@
-![TechTuzzle]([https://markdown-here.com/img/icon256.png](https://github.com/techtuzzle/techtuzzle/blob/main/twitter-transformed.jpeg) "TechTuzzle -  We solve technological puzzle")
+![TechTuzzle]([https://github.com/techtuzzle/techtuzzle/blob/main/twitter-transformed.jpeg] "TechTuzzle -  We solve the technological puzzle")
 
 <h1 align="center">Hi 👋, We're TechTuzzle</h1>
 <h3 align="center">We solve technology's puzzle</h3>
