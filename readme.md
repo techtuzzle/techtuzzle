@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/therobiulislam12/therobiulislam12/blob/main/github-banner-update-2024.png)
+![TechTuzzle](https://github.com/techtuzzle/techtuzzle/blob/main/twitter-transformed.jpeg)
 
 <h1 align="center">Hi 👋, We're TechTuzzle</h1>
 <h3 align="center">We solve technology's puzzle</h3>
